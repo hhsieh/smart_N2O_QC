@@ -1,3 +1,3 @@
 # smart_N2O_QC
 
-Quality control for the smart-N2O project. 
+Data quality control for the smart-N2O project. 
